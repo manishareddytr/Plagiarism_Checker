@@ -1,0 +1,4 @@
+called the Fabless Chip Design Incubator, a flagship programme being executed with the support of Ministry of Electronics and Information Technology (MEITY) and in partnership with Cadence Design Systems, a leading provider of Electronic Design Automation (EDA) software, hardware and IP.
+
+Speaking at the launch of FabCI, U B Desai, Director, IIT-Hyderabad, said, “This incubator programme demonstrates our commitment to generate IP in chip design.”
+
